@@ -10,6 +10,6 @@
 
 ## Arbeitspakete für 29.08.2023
 
-- [ ] Programmiert Sprache verstehen
-- [ ] Schneller tippen
-- [ ] Seiten selber Programmieren
+- [ ] Benutzeroberfläche erstellen
+- [ ] Buttons hinzufügen
+- [ ] Textfelder hinzufügen
