@@ -6,7 +6,7 @@
 
 ## Leit-Satz
 
-✍️ Mindestens eine programm Sprache können und verstehen wie man richtig Programmiert
+✍️ In diesem Projekt will ich eine einfache Taschenrechner-App in Visual Studio mit der Programmiersprache C# erstellen. Das Projekt wird mir helfen, grundlegende Programmierkonzepte zu verstehen und gleichzeitig eine praktische Anwendung zu entwickeln.
 
 ## Arbeitspakete für 29.08.2023
 
