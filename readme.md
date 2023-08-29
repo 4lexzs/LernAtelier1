@@ -10,6 +10,16 @@
 
 ## Arbeitspakete für 29.08.2023
 
-- [ ] Benutzeroberfläche erstellen
-- [ ] Buttons hinzufügen
-- [ ] Textfelder hinzufügen
+- [X] Benutzeroberfläche erstellen
+- [X] Buttons hinzufügen
+- [X] Textfelder hinzufügen
+
+## Reflexion 29.08.2023
+
+✍️ Ich denke das ich relativ schnell gearbeitet habe, sicher geht eteas schneller, aberr es war gut. Ich habe alle meine Ziele für heute geschafft, bin aber mit "Textfelder hinzufügen noch nicht zu 100% fertig.
+
+## Arbeitspakete 05.09.2023
+
+- [ ] Die Buttons zum funktionieren bringen
+- [ ] DIe Text felder sollen Zahlen zeigen können.
+- [ ] Addition hinzufügen
