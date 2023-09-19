@@ -38,13 +38,12 @@ mit der Addition bin ich fast fertig geworden muss nur ein Paar schritte fertig 
 
 ## Reflexion für 12.09.2023
 
-✍️ Heute boin ich sehr weit gekommen, ich dachte es würde vile längert dauern, aber das Lernklima in meinem Zimmer war so gut das ich fast alles fertig geschafft habe.
-Jedoch habe ich jetzt ein Problem und zwar weil wenn ich "+" drücke die Zahlen sich nicht addieren.
+✍️ Heute bin ich sehr weit gekommen, ich dachte es würde vielleicht längert dauern, aber das Lernklima in meinem Zimmer war so gut das ich fast alles fertig geschafft habe.
+Jedoch habe ich jetzt ein Problem und zwar, wenn ich "+" drücke die Zahlen sich nicht addieren.
 
 ## Arbeitspaket für 19.09.2023
 
-✍️ Mein heutiges Ziel ist es den Taschenrechner fertig zu stellen.
-
+- [X] Alles fertig
 ## Reflexion für 19.09.2023
 ✍️ Der Taschnrechner habe ich heute sehr schnell fertig PRogrammiert und auf .exe verwandelt. Dazu habe ich noch paar extra features hinzugefügt damit der Rechner besser funktioniert.
 
