@@ -47,3 +47,10 @@ Jedoch habe ich jetzt ein Problem und zwar, wenn ich "+" drücke die Zahlen sich
 ## Reflexion für 19.09.2023
 ✍️ Der Taschnrechner habe ich heute sehr schnell fertig PRogrammiert und auf .exe verwandelt. Dazu habe ich noch paar extra features hinzugefügt damit der Rechner besser funktioniert.
 
+## Arbeitspaket für 26.09.2023
+
+- [ ] LA_431_1722_DokumentationDatei fertig bearbeiten und abgeben
+- [ ] LA_431_1723_Merkmale_Dokumentation  fertig machen und abgeben
+- [ ] LA_431_1724_Dokumentation_erstellenDatei fertig machen und abgeben
+
+
