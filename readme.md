@@ -2,7 +2,7 @@
 
 ✍️ Alexander Paucar
 
-✍️ 22.08.2023 - 29.08.2023
+✍️ 22.08.2023 - 26.09.2023
 
 ## Leit-Satz
 
@@ -49,8 +49,13 @@ Jedoch habe ich jetzt ein Problem und zwar, wenn ich "+" drücke die Zahlen sich
 
 ## Arbeitspaket für 26.09.2023
 
-- [ ] LA_431_1722_DokumentationDatei fertig bearbeiten und abgeben
-- [ ] LA_431_1723_Merkmale_Dokumentation  fertig machen und abgeben
-- [ ] LA_431_1724_Dokumentation_erstellenDatei fertig machen und abgeben
+- [X] LA_431_1722_DokumentationDatei fertig bearbeiten und abgeben
+- [X] LA_431_1723_Merkmale_Dokumentation  fertig machen und abgeben
+- [X] LA_431_1724_Dokumentation_erstellenDatei fertig machen und abgeben
 
+## Reflexion Lern-Atelier
 
+Während dieser Lernperiode konnte ich mich in der Programmier Welt verbessern. Ein entscheidender Moment war, als ich auf ein Problem stiess, bei dem ich Schwierigkeiten hatte, den Code zu verstehen und Fehler zu finden. Trotz hilfe von meinen Klassenkameraden konnte ich das Problem nicht direkt lösen.
+
+Wenn ich bei einem Projekt nicht wirklich vorangekommen bin, habe ich jeweils diesen tag Pause gemacht und an einem anderen Projekt gearbeiten. Dann nächste Woche habe ich es wieder versucht, und diesmal klappte es und ich konnte normal weiterarbeiten.
+Deise Probleme Erfahrungen haben mir geholfen zu verstehen das ich nicht alles an einem Tag schaffen kann, also ich brauche für eine Arbeit oder ein Projekt viele Pausen immer verschieden lang.
